@@ -1,0 +1,24 @@
+{
+  "name": "gol",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/argshook/gol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argshook/gol/issues"
+  },
+  "homepage": "https://github.com/argshook/gol",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jasmine": "^0.8.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
